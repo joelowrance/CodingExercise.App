@@ -28,7 +28,7 @@ namespace CodingExercise.App
         }
 
 
-        public List<string> Data()
+        private List<string> Data()
         {
             var rawData = new List<string>();
             rawData.Add("08 49 81 52 22 24 32 67 24 21 78 16 86 19 04 88 04 20 20 01");

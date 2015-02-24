@@ -1,5 +1,8 @@
 namespace CodingExercise.App
 {
+    /// <summary>
+    /// Represents a point on our grid
+    /// </summary>
     public class Point
     {
         public int Row { get; set; }
